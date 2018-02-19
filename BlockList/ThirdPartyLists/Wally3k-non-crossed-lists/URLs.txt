@@ -8,7 +8,7 @@ http://sysctl.org/cameleon/hosts
 https://www.dshield.org/feeds/suspiciousdomains_Low.txt
 https://www.joewein.net/dl/bl/dom-bl-base.txt
 https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
-https://hostsfile.org/Downloads/hosts.txt
+#https://hostsfile.org/Downloads/hosts.txt
 http://someonewhocares.org/hosts/zero/hosts
 https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
