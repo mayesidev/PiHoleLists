@@ -51,7 +51,6 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://someonewhocares.org/hosts/zero/hosts
-https://someonewhocares.org/hosts/zero/hosts
 https://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://v.firebog.net/hosts/Airelle-hrsk.txt
