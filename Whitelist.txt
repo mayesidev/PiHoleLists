@@ -21,6 +21,7 @@ akamaized.net
 alluremedia.com.au
 amazonaws.com
 android.clients.google.com
+api.facebook.com
 api.ipify.org
 api.segment.io
 app-analytics.snapchat.com
@@ -39,6 +40,8 @@ avatarservices.xboxlive.com
 avatarv3.xboxlive.com
 avty.xboxlive.com
 ax.phobos.apple.com.edgesuite.net
+b-api.facebook.com
+b-graph.facebook.com
 bethesda.net
 bing.com
 bit.ly
@@ -238,6 +241,7 @@ redirector.googlevideo.com
 res.cloudinary.com
 rover.ebay.com
 rta.xboxlive.com
+rtmp-api.facebook.com
 s.gateway.messenger.live.com
 s.marketwatch.com
 s.shopify.com
