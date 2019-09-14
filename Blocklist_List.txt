@@ -15,7 +15,7 @@ https://www.dshield.org/feeds/suspiciousdomains_Low.txt
 https://www.joewein.net/dl/bl/dom-bl-base.txt
 https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
 https://hostsfile.org/Downloads/hosts.txt
-http://someonewhocares.org/hosts/zero/hosts
+https://someonewhocares.org/hosts/zero/hosts
 https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 http://winhelp2002.mvps.org/hosts.txt
@@ -70,5 +70,5 @@ https://www.dshield.org/feeds/suspiciousdomains_High.txt
 https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
 https://www.squidblacklist.org/downloads/dg-ads.acl
 https://www.squidblacklist.org/downloads/dg-malicious.acl
-http://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
+https://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
 https://hosts.oisd.nl/
