@@ -39,9 +39,11 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
 https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+https://raw.githubusercontent.com/buckmelanoma/block_lists/master/leadforensics.txt
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 https://raw.githubusercontent.com/mayesidevel/PiHoleLists/master/MiscBlocklist
+https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
 https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt
 https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
@@ -66,6 +68,7 @@ https://v.firebog.net/hosts/static/w3kbl.txt
 https://www.dshield.org/feeds/suspiciousdomains_High.txt
 https://www.dshield.org/feeds/suspiciousdomains_Low.txt
 https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://www.joewein.net/dl/bl/dom-bl-base.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://www.squidblacklist.org/downloads/dg-ads.acl
