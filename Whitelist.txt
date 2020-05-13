@@ -67,6 +67,7 @@ bethesda.net
 bfast.com
 bing.com
 bit.ly
+bitbucket.org
 brightcove.net
 bufferapp.com
 c.s-microsoft.com
@@ -111,6 +112,7 @@ compass.xboxlive.com
 connect.facebook.com
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
+corp.signaturescience.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 creative.ak.fbcdn.net
@@ -196,6 +198,8 @@ gfwsl.geforce.com
 giphy.com
 github.com
 github.io
+gitlab.com
+gitlab.io
 gleam.io
 go.redirectingat.com
 go2jump.org
@@ -322,6 +326,7 @@ proxy.plex.tv
 proxy02.pop.ord.plex.bz
 pubsub.plex.bz
 pubsub.plex.tv
+pubsub.pubnub.com
 qksrv.net
 raw.githubusercontent.com
 reddit.com
@@ -369,6 +374,7 @@ shareasale.com
 sharepoint.com
 silo.pluto.tv
 siloh.pluto.tv
+signaturescience.com
 skyhook.sonarr.tv
 skype.com
 social.xboxlive.com
