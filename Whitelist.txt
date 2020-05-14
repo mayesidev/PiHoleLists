@@ -419,6 +419,7 @@ trueachievements.com
 tvdb2.plex.tv
 tvthemes.plexapp.com
 twimg.com
+twitch.app.link
 twitter.com
 ui.skype.com
 unagi-na.amazon.com
