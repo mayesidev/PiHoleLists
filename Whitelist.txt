@@ -441,6 +441,7 @@ video-stats.l.google.com
 videocdn-sbs.akamaized.net
 videos.vidible.tv
 vimeo.com
+web.facebook.com
 weeklyad.target.com
 weeklyad.target.com.edgesuite.net
 widget-cdn.rpxnow.com
