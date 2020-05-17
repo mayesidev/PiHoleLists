@@ -252,6 +252,7 @@ lastfm-img2.akamaized.net
 licensing.xboxlive.com
 link.theplatform.com
 linkedin.com
+links.my.pizzahut.com
 linksynergy.com
 linuxtracker.org
 live.com
