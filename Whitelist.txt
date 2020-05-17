@@ -55,7 +55,9 @@ aspnetcdn.com
 assests1.xboxlive.com
 assets.adobedtm.com
 attestation.xboxlive.com
+au.download.windowsupdate.com 
 audio-ake.spotify.com.edgesuite.net
+audownload.windowsupdate.nsatc.net
 avantlink.com
 avatarservices.xboxlive.com
 avatarv3.xboxlive.com
@@ -182,6 +184,11 @@ facebook.com
 facebook.net
 fbcdn-creative-a.akamaihd.net
 fbcdn.net
+fe2.update.microsoft.com 
+fe2.update.microsoft.com.nsatc.net 
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net 
+fe3.delivery.mp.microsoft.com 
+fe3cr.delivery.mp.microsoft.com
 feeds.feedburner.com
 filament.io
 fls-na.amazon.com
@@ -377,6 +384,9 @@ silo.pluto.tv
 siloh.pluto.tv
 skyhook.sonarr.tv
 skype.com
+sls.update.microsoft.com 
+sls.update.microsoft.com.nsatc.net 
+slscr.update.microsoft.com
 social.xboxlive.com
 society6.com
 someonewhocares.org
