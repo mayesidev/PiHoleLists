@@ -71,6 +71,7 @@ bing.com
 bit.ly
 bitbucket.org
 brightcove.net
+buff.ly
 bufferapp.com
 c.s-microsoft.com
 cc-dt.com
