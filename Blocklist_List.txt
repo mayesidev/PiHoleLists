@@ -11,8 +11,6 @@ https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 https://hosts.nfz.moe/basic/hosts
 https://hosts.oisd.nl/
 https://hostsfile.org/Downloads/hosts.txt
-https://isc.sans.edu/feeds/suspiciousdomains_Low.txt
-https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 https://mirror1.malwaredomains.com/files/immortal_domains.txt
 https://mirror1.malwaredomains.com/files/justdomains
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
