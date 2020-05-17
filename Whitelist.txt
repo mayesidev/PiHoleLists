@@ -278,6 +278,7 @@ mobile.pipe.aria.microsoft.com
 mqtt-mini.facebook.com
 msftncsi.com
 msg.xboxlive.com
+msn.com
 my.plexapp.com
 netflix.com
 nexusrules.officeapps.live.com
@@ -490,6 +491,7 @@ www.linuxtracker.org
 www.lotustalk.com
 www.mediamonkey.com
 www.msftncsi.com
+www.msn.com
 www.no-ip.com
 www.ojrq.net
 www.onenetworkdirect.net
