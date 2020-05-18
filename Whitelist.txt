@@ -219,6 +219,7 @@ graph.facebook.com
 graph.instagram.com
 gravatar.com
 gstatic.com
+gumroad.com
 help.ui.xboxlive.com
 hls.ted.com
 hosts-file.net
