@@ -268,6 +268,7 @@ m.weeklyad.target.com
 manifest.auditude.com
 manifest.googlevideo.com
 market.spotify.com
+maxcdn.bootstrapcdn.com
 media.kvue.com
 media.sbs.com.au
 mediamonkey.com
