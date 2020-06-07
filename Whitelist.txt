@@ -52,7 +52,7 @@ appsbackup-pa.googleapis.com
 apresolve.spotify.com
 apt.sonarr.tv
 aspnetcdn.com
-assests1.xboxlive.com
+assets1.xboxlive.com
 assets.adobedtm.com
 attestation.xboxlive.com
 au.download.windowsupdate.com 
