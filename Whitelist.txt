@@ -175,6 +175,7 @@ entitlement.auth.adobe.com
 eplists.xboxlive.com
 events.gfe.nvidia.com
 evyy.net
+ew.com
 ext-eq.squarespace.com
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
@@ -516,6 +517,7 @@ www.doubleclick.net
 www.dpbolvw.net
 www.emjcd.com
 www.evyy.net
+www.ew.com
 www.google-analytics.com
 www.googleapis.com
 www.gopjn.com
