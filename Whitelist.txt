@@ -337,6 +337,8 @@ pjatr.com
 pjtra.com
 placehold.it
 placeholdit.imgix.net
+play.google.com
+play.googleapis.com
 players.brightcove.net
 players.pluto.tv
 plex.tv
