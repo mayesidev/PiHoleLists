@@ -15,6 +15,8 @@ a-vrv.akamaized.net
 a463.w10.akamai.net
 a790.w16.akamai.net
 aa.com
+abcnewsplayer-a.akamaihd.net
+abcsouth.slack.com
 accounts.xboxlive.com
 acdn.adnxs.com
 achievements.xboxlive.com
@@ -44,6 +46,7 @@ apmebf.com
 app-analytics.snapchat.com
 app-api.ted.com
 app.plex.tv
+app.slack.com
 appboot.netflix.com
 appleid.apple.com
 apps.skype.com
@@ -52,8 +55,8 @@ appsbackup-pa.googleapis.com
 apresolve.spotify.com
 apt.sonarr.tv
 aspnetcdn.com
-assets1.xboxlive.com
 assets.adobedtm.com
+assets1.xboxlive.com
 attestation.xboxlive.com
 au.download.windowsupdate.com 
 audio-ake.spotify.com.edgesuite.net
@@ -153,6 +156,7 @@ download.sonarr.tv
 dpbolvw.net
 drift.com
 driftt.com
+ds.testmyipv6.com
 dsms0mj1bbhn4.cloudfront.net
 dts.podtrac.com
 dynupdate.no-ip.com
@@ -165,6 +169,7 @@ edge-mqtt.facebook.com
 edge.api.brightcove.com
 eds.xboxlive.com
 emjcd.com
+en.internet.nl
 entitlement.auth.adobe.com
 eplists.xboxlive.com
 events.gfe.nvidia.com
@@ -204,6 +209,7 @@ gcs.sc-cdn.net
 geo-prod.do.dsp.mp.microsoft.com
 geo3.ggpht.com
 gfwsl.geforce.com
+gfycat.com
 giphy.com
 github.com
 github.io
@@ -227,6 +233,7 @@ hosts-file.net
 hostsfile.mine.nu
 hostsfile.org
 i.cdn.turner.com
+i.imgur.com
 i.s-microsoft.com
 i.ytimg.com
 i1.ytimg.com
@@ -238,9 +245,13 @@ imagesak.secureserver.net
 img.vidible.tv
 imgix.net
 imgs.xkcd.com
+imgur.com
 instagram.c10r.facebook.com
 instantmessaging-pa.googleapis.com
 intercom.io
+internic.net
+ipv6-test.com
+ipv6test.google.com
 itunes.apple.com
 j.mp
 jdoqocy.com
@@ -265,6 +276,7 @@ login.live.com
 login.microsoftonline.com
 lotustalk.com
 m.hotmail.com
+m.imgur.com
 m.weeklyad.target.com
 manifest.auditude.com
 manifest.googlevideo.com
@@ -272,6 +284,7 @@ market.spotify.com
 maxcdn.bootstrapcdn.com
 media.kvue.com
 media.sbs.com.au
+media.tegna-media.com
 mediamonkey.com
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
@@ -281,11 +294,13 @@ microsoftonline.com
 mobile-ap.spotify.com
 mobile.pipe.aria.microsoft.com
 mqtt-mini.facebook.com
+msftconnecttest.com
 msftncsi.com
 msg.xboxlive.com
 msn.com
 my.plexapp.com
 netflix.com
+nexus.ensighten.com
 nexusrules.officeapps.live.com
 nine.plugins.plexapp.com
 no-ip.com
@@ -341,6 +356,7 @@ pubsub.plex.bz
 pubsub.plex.tv
 pubsub.pubnub.com
 qksrv.net
+raspbian.raspberrypi.org
 raw.githubusercontent.com
 reddit.com
 redirect.at
@@ -350,6 +366,8 @@ redirector.googlevideo.com
 refersion.com
 res.cloudinary.com
 resources.sbs.com.au
+routerlogin.com
+routerlogin.net
 rover.ebay.com
 rta.xboxlive.com
 rtmp-api.facebook.com
@@ -373,6 +391,7 @@ scontent.fgdl5-1.fna.fbcdn.net
 scontent.xx.fbcdn.net
 secure.avangate.com
 secure.brightcove.com
+secure.gravatar.com
 secure.netflix.com
 secure.surveymonkey.com
 segment.io
@@ -414,6 +433,14 @@ t0.ssl.ak.tiles.virtualearth.net
 tawk.to
 tc.tradetracker.com
 tedcdn.com
+tegna.com
+tegna.okta.com
+tegna.service-now.com
+tegnanews.slack.com
+tenor.com
+test-ipv6.com
+testmyipv6.com
+tgna.tegna.com
 themoviedb.com
 thetvdb.com
 time.samsungcloudsolution.com
@@ -454,6 +481,8 @@ v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.events.data.microsoft.com
 v20.vortex-win.data.microsoft.com
+v4.testmyipv6.com
+v6.testmyipv6.com
 video-stats.l.google.com
 videocdn-sbs.akamaized.net
 videos.vidible.tv
@@ -461,6 +490,7 @@ vimeo.com
 web.facebook.com
 weeklyad.target.com
 weeklyad.target.com.edgesuite.net
+west.tegna.com
 widget-cdn.rpxnow.com
 wikipedia.org
 win10.ipv6.microsoft.com
@@ -487,6 +517,8 @@ www.google-analytics.com
 www.googleapis.com
 www.gopjn.com
 www.icloud.com
+www.internic.net
+www.ip6only.me
 www.jdoqocy.com
 www.kotaku.com
 www.kqzyfj.com
