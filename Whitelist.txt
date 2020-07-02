@@ -252,6 +252,8 @@ instagram.c10r.facebook.com
 instantmessaging-pa.googleapis.com
 intercom.io
 internic.net
+iosapps.itunes.apple.com
+iosapps.itunes.g.aaplimg.com
 ipv6-test.com
 ipv6test.google.com
 itunes.apple.com
