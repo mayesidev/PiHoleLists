@@ -38,6 +38,7 @@ anrdoezrs.net
 api-global.netflix.com
 api.facebook.com
 api.ipify.org
+api.mapbox.com
 api.pluto.tv
 api.rlje.net
 api.sbs.com.au
