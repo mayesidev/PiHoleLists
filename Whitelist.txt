@@ -110,6 +110,7 @@ clients4.google.com
 clients5.google.com
 clients6.google.com
 clk.tradedoubler.com
+code.jquery.com
 cognito-identity.us-east-1.amazonaws.com
 commission-junction.com
 compass-ssl.xbox.com
@@ -169,6 +170,7 @@ edge-chat.facebook.com
 edge-mqtt.facebook.com
 edge.api.brightcove.com
 eds.xboxlive.com
+ekr.zdassets.com
 emjcd.com
 en.internet.nl
 entitlement.auth.adobe.com
@@ -213,6 +215,7 @@ geo3.ggpht.com
 gfwsl.geforce.com
 gfycat.com
 giphy.com
+gist.githubusercontent.com
 github.com
 github.io
 gitlab.com
@@ -248,6 +251,7 @@ img.vidible.tv
 imgix.net
 imgs.xkcd.com
 imgur.com
+imperfectfoods.com
 instagram.c10r.facebook.com
 instantmessaging-pa.googleapis.com
 intercom.io
@@ -261,6 +265,7 @@ j.mp
 jdoqocy.com
 jquery.com
 js.maxmind.com
+js.stripe.com
 jsdelivr.net
 keepass.info
 keystone.mwbsys.com
@@ -281,6 +286,7 @@ login.microsoftonline.com
 lotustalk.com
 m.hotmail.com
 m.imgur.com
+m.stripe.com
 m.weeklyad.target.com
 manifest.auditude.com
 manifest.googlevideo.com
@@ -362,6 +368,7 @@ proxy02.pop.ord.plex.bz
 pubsub.plex.bz
 pubsub.plex.tv
 pubsub.pubnub.com
+q.stripe.com
 qksrv.net
 raspbian.raspberrypi.org
 raw.githubusercontent.com
@@ -430,6 +437,7 @@ staging.plex.tv
 stats.streamelements.com
 status.plex.tv
 stitcher.pluto.tv
+stripe.com
 support.microsoft.com
 surveymonkey.com
 synology.com
