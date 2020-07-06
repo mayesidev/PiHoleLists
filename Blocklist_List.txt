@@ -53,7 +53,6 @@ https://raw.githubusercontent.com/durablenapkin/block/master/streaming.txt
 https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://raw.githubusercontent.com/llacb47/mischosts/master/apple-telemetry
-https://raw.githubusercontent.com/llacb47/mischosts/master/blacklist
 https://raw.githubusercontent.com/llacb47/mischosts/master/microsoft-telemetry
 https://raw.githubusercontent.com/llacb47/mischosts/master/streaming-hosts
 https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts
