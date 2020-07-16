@@ -42,6 +42,7 @@ api.mapbox.com
 api.pluto.tv
 api.rlje.net
 api.sbs.com.au
+api.searchspring.net
 api.segment.io
 apmebf.com
 app-analytics.snapchat.com
@@ -86,6 +87,7 @@ cdn.fbsbx.com
 cdn.optimizely.com
 cdn.refersion.com
 cdn.samsungcloudsolution.com
+cdn.searchspring.net
 cdn.segment.io
 cdn.vidible.tv
 cdn1.smartadserver.com
@@ -232,6 +234,7 @@ graph.instagram.com
 gravatar.com
 gstatic.com
 gumroad.com
+hackerone.com
 help.ui.xboxlive.com
 hls.ted.com
 hosts-file.net
