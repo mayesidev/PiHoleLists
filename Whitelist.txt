@@ -537,6 +537,7 @@ web.facebook.com
 weeklyad.target.com
 weeklyad.target.com.edgesuite.net
 west.tegna.com
+whereisxur.com
 widget-cdn.rpxnow.com
 wikimedia.org
 wikipedia.org
