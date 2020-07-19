@@ -50,6 +50,7 @@ apmebf.com
 app-analytics.snapchat.com
 app-api.ted.com
 app.plex.tv
+app.progressive.com
 app.slack.com
 appboot.netflix.com
 appleid.apple.com
@@ -107,6 +108,7 @@ cf-st.sc-cdn.net
 chatfd.xboxlive.com
 cj.com
 cj.dotomi.com
+click.e.progressive.com
 click.linksynergy.com
 clickserve.cc-dt.com
 clickserve.dartsearch.net
