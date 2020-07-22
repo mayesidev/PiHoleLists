@@ -291,6 +291,7 @@ keystone.mwbsys.com
 kotaku.com
 kqzyfj.com
 lastfm-img2.akamaized.net
+lemonade.com
 licensing.xboxlive.com
 link.theplatform.com
 linkedin.com
@@ -359,6 +360,7 @@ onenetworkdirect.net
 openload.co
 ota-downloads.nvidia.com
 outlook.live.com
+outlook.office.com
 outlook.office365.com
 ow.ly
 partners.webmasterplan.com
@@ -576,6 +578,7 @@ www.ip6only.me
 www.jdoqocy.com
 www.kotaku.com
 www.kqzyfj.com
+www.lemonade.com
 www.linksynergy.com
 www.linuxtracker.org
 www.lotustalk.com
