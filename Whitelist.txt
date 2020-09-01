@@ -57,6 +57,7 @@ appleid.apple.com
 apps.skype.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
+appspot-preview.l.google.com
 apresolve.spotify.com
 apt.sonarr.tv
 arc.msn.com
@@ -132,6 +133,7 @@ config.edge.skype.com
 connect.facebook.com
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
+continuum.dds.microsoft.com
 corp.signaturescience.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
@@ -139,6 +141,7 @@ creative.ak.fbcdn.net
 crisp.chat
 cse.google.com
 ctldl.windowsupdate.com
+cws.conviva.com
 cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 d1.xboxlive.com
@@ -367,6 +370,7 @@ ow.ly
 partners.webmasterplan.com
 pbs.twimg.com
 pgl.yoyo.org
+pings.conviva.com
 pinterest.com
 pixel.nymag.com
 pjatr.com
@@ -536,6 +540,7 @@ variety.com
 video-stats.l.google.com
 videocdn-sbs.akamaized.net
 videos.vidible.tv
+vidtech.cbsinteractive.com
 vimeo.com
 vortex.data.microsoft.com
 web.facebook.com
@@ -623,4 +628,5 @@ youtube-nocookie.com
 youtube.com
 yt3.ggpht.com
 z.cdn.turner.com
+zee.cws.conviva.com
 zeustracker.abuse.ch
