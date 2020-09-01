@@ -283,6 +283,7 @@ j.mp
 jdoqocy.com
 jquery.com
 js.maxmind.com
+js.pusher.com
 js.stripe.com
 jsdelivr.net
 keepass.info
