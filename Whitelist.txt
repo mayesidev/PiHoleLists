@@ -18,6 +18,7 @@ aa.com
 abcnewsplayer-a.akamaihd.net
 abcsouth.slack.com
 account.activedirectory.windowsazure.us
+accounts.careerbuilder.com
 accounts.nvgs.nvidia.com
 accounts.xboxlive.com
 acdn.adnxs.com
@@ -88,6 +89,7 @@ buff.ly
 bufferapp.com
 c.s-microsoft.com
 captive.apple.com
+careerbuilder.com
 cc-dt.com
 cdn-mobile.api.pluto.tv
 cdn.cloudflare.net
@@ -382,6 +384,7 @@ play.googleapis.com
 players.brightcove.net
 players.pluto.tv
 playfabapi.com
+pleated-jeans.com
 plex.tv
 pmd.cdn.turner.com
 pntra.com
@@ -433,6 +436,7 @@ sc-analytics.appspot.com
 scontent-lhr3-1.xx.fbcdn.net
 scontent.fgdl5-1.fna.fbcdn.net
 scontent.xx.fbcdn.net
+screenrant.com
 sdks.shopifycdn.com
 secure.avangate.com
 secure.brightcove.com
@@ -566,6 +570,7 @@ www.appleiphonecell.com
 www.avantlink.com
 www.bfast.com
 www.bit.ly
+www.careerbuilder.com
 www.cc-dt.com
 www.cj.com
 www.dataplicity.com
@@ -599,6 +604,7 @@ www.ow.ly
 www.pjatr.com
 www.pjtra.com
 www.playfabapi.com
+www.pleated-jeans.com
 www.plex.tv
 www.pntra.com
 www.pntrac.com
@@ -606,6 +612,7 @@ www.pntrack.com
 www.qksrv.net
 www.refersion.com
 www.sbs.com.au
+www.screenrant.com
 www.solaredge.com
 www.synology.com
 www.tkqlhce.com
