@@ -551,6 +551,7 @@ web.facebook.com
 weeklyad.target.com
 weeklyad.target.com.edgesuite.net
 west.tegna.com
+wgntv.com
 whereisxur.com
 widget-cdn.rpxnow.com
 wikimedia.org
@@ -619,6 +620,7 @@ www.tkqlhce.com
 www.tradetracker.net
 www.trueachievements.com
 www.twitter.com
+www.wgntv.com
 www.xboxlive.com
 www.youtube-nocookie.com
 xbox.ipv6.microsoft.com
