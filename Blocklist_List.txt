@@ -17,6 +17,7 @@ https://mirror1.malwaredomains.com/files/domains.hosts
 https://mirror1.malwaredomains.com/files/immortal_domains.txt
 https://mirror1.malwaredomains.com/files/justdomains
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/AudioFp.txt
@@ -106,6 +107,7 @@ https://v.firebog.net/hosts/static/HPHosts/Hostsgrm.txt
 https://v.firebog.net/hosts/static/HPHosts/Hostsmmt.txt
 https://v.firebog.net/hosts/static/HPHosts/Hostspha.txt
 https://v.firebog.net/hosts/static/HPHosts/Hostspsh.txt
+https://v.firebog.net/hosts/neohostsbasic.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://winhelp2002.mvps.org/hosts.txt
 https://www.bentasker.co.uk/adblock/blockeddomains.txt
