@@ -1,6 +1,7 @@
 0-edge-chat.facebook.com
 0.client-channel.google.com
 1-edge-chat.facebook.com
+106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 1drv.com
 2-edge-chat.facebook.com
 2.android.pool.ntp.org
@@ -10,6 +11,7 @@
 5231.xg4ken.com
 5fd74.v.fwmrm.net
 6-edge-chat.facebook.com
+79423.analytics.edgekey.net
 7eer.net
 a-vrv.akamaized.net
 a463.w10.akamai.net
@@ -23,6 +25,7 @@ accounts.nvgs.nvidia.com
 accounts.xboxlive.com
 acdn.adnxs.com
 achievements.xboxlive.com
+activate.adobe.com
 ad.atdmt.com
 ad.doubleclick.net
 adf.ly
@@ -66,7 +69,7 @@ aspnetcdn.com
 assets.adobedtm.com
 assets1.xboxlive.com
 attestation.xboxlive.com
-au.download.windowsupdate.com 
+au.download.windowsupdate.com
 audio-ake.spotify.com.edgesuite.net
 audownload.windowsupdate.nsatc.net
 avantlink.com
@@ -78,6 +81,7 @@ b-api.facebook.com
 b-graph.facebook.com
 bethesda.net
 bfast.com
+bigzipfiles.facebook.com
 bing.com
 bit.ly
 bitbucket.org
@@ -109,6 +113,7 @@ cdns.gigya.com
 cert.mgt.xboxlive.com
 cf-st.sc-cdn.net
 chatfd.xboxlive.com
+chevrolet.com
 cj.com
 cj.dotomi.com
 click.e.progressive.com
@@ -124,6 +129,7 @@ clients4.google.com
 clients5.google.com
 clients6.google.com
 clk.tradedoubler.com
+code.bildstatic.de
 code.jquery.com
 cognito-identity.us-east-1.amazonaws.com
 commission-junction.com
@@ -153,6 +159,7 @@ d2jsp.org
 dashboard.plex.tv
 dataplicity.com
 dcs-vod.apis.anvato.net
+de.ioam.de
 def-vef.xboxlive.com
 delivery.vidible.tv
 det-ta-g7g.amazon.com
@@ -210,15 +217,17 @@ external-lhr9-1.xx.fbcdn.net
 f1.media.brightcove.com
 facebook.com
 facebook.net
+fb.me
 fbcdn-creative-a.akamaihd.net
 fbcdn.net
-fe2.update.microsoft.com 
-fe2.update.microsoft.com.nsatc.net 
-fe3.delivery.dsp.mp.microsoft.com.nsatc.net 
-fe3.delivery.mp.microsoft.com 
+fe2.update.microsoft.com
+fe2.update.microsoft.com.nsatc.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+fe3.delivery.mp.microsoft.com
 fe3cr.delivery.mp.microsoft.com
 feeds.feedburner.com
 filament.io
+firestore.googleapis.com
 fls-na.amazon.com
 fonts.gstatic.com
 forms.gle
@@ -240,10 +249,12 @@ gitlab.com
 gitlab.io
 gleam.io
 go.redirectingat.com
+go.skimresources.com
 go2jump.org
 goo.gl
 google-analytics.com
 googleapis.com
+googleapis.l.google.com
 gopjn.com
 gosunoob.com
 graph.facebook.com
@@ -291,11 +302,13 @@ js.maxmind.com
 js.pusher.com
 js.stripe.com
 jsdelivr.net
+json.bild.de
 keepass.info
 keepassxc.org
 keystone.mwbsys.com
 kotaku.com
 kqzyfj.com
+l.facebook.com
 lastfm-img2.akamaized.net
 lemonade.com
 licensing.xboxlive.com
@@ -306,6 +319,7 @@ linksynergy.com
 linuxtracker.org
 live.com
 livepassdl.conviva.com
+lm.licenses.adobe.com
 login.aliexpress.com
 login.live.com
 login.microsoftonline.com
@@ -326,6 +340,7 @@ mediamonkey.com
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
 meta.plex.tv
+metrics.plex.tv
 mfasa.chase.com
 microsoft.com
 microsoftonline.com
@@ -333,6 +348,7 @@ mixer.com
 mobile-ap.spotify.com
 mobile.pipe.aria.microsoft.com
 mqtt-mini.facebook.com
+mqtt.c10r.facebook.com
 msftconnecttest.com
 msftncsi.com
 msg.xboxlive.com
@@ -390,6 +406,7 @@ pmd.cdn.turner.com
 pntra.com
 pntrac.com
 pntrack.com
+portal.fb.com
 pricelist.skype.com
 privacy.xboxlive.com
 prod.telemetry.ros.rockstargames.com
@@ -411,6 +428,7 @@ redirect.viglink.com
 redirectingat.com
 redirector.googlevideo.com
 refersion.com
+reminders-pa.googleapis.com
 res.cloudinary.com
 resources.sbs.com.au
 routerlogin.com
@@ -421,6 +439,7 @@ rtmp-api.facebook.com
 s.cdn.turner.com
 s.gateway.messenger.live.com
 s.marketwatch.com
+s.mzstatic.com
 s.shopify.com
 s.youtube.com
 s.ytimg.com
@@ -437,6 +456,7 @@ scontent-lhr3-1.xx.fbcdn.net
 scontent.fgdl5-1.fna.fbcdn.net
 scontent.xx.fbcdn.net
 screenrant.com
+script.ioam.de
 sdks.shopifycdn.com
 secure.avangate.com
 secure.brightcove.com
@@ -461,8 +481,9 @@ silo.pluto.tv
 siloh.pluto.tv
 skyhook.sonarr.tv
 skype.com
-sls.update.microsoft.com 
-sls.update.microsoft.com.nsatc.net 
+sls.update.microsoft.com
+sls.update.microsoft.com.akadns.net
+sls.update.microsoft.com.nsatc.net
 slscr.update.microsoft.com
 social.xboxlive.com
 society6.com
@@ -473,6 +494,8 @@ ssl.berkeley.edu
 ssl.google-analytics.com
 ssl.p.jwpcdn.com
 staging.plex.tv
+star-mini.c10r.facebook.com
+star.c10r.facebook.com
 stats.streamelements.com
 status.plex.tv
 stitcher.pluto.tv
@@ -484,6 +507,7 @@ sysctl.org
 t.co
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
+tags.tiqcdn.com
 tawk.to
 tc.tradetracker.com
 tedcdn.com
@@ -511,12 +535,14 @@ tournamentshub.xboxlive.com
 track.adform.net
 track.ucas.com
 track.webgains.com
+tracking-protection.cdn.mozilla.net
 tracking.epicgames.com
 tradetracker.net
 traffic.libsyn.com
 trueachievements.com
 tvdb2.plex.tv
 tvthemes.plexapp.com
+tvthemes.plexapp.com.cdn.cloudflare.net
 twimg.com
 twitch.app.link
 twitter.com
@@ -526,6 +552,7 @@ unsplash.com
 update-cdn.xboxlive.com
 update.xboxlive.com
 upgrade.scdn.com
+upload.facebook.com
 us-east-1.amazonaws.com
 use-application-dns.net
 user.auth.xboxlive.com
@@ -568,6 +595,7 @@ www.anrdoezrs.net
 www.apmebf.com
 www.apple.com
 www.appleiphonecell.com
+www.asadcdn.com
 www.avantlink.com
 www.bfast.com
 www.bit.ly
@@ -595,6 +623,7 @@ www.linksynergy.com
 www.linuxtracker.org
 www.lotustalk.com
 www.mediamonkey.com
+www.msftconnecttest.com
 www.msftncsi.com
 www.msn.com
 www.no-ip.com
