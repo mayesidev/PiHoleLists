@@ -120,6 +120,7 @@ cdns.gigya.com
 cert.mgt.xboxlive.com
 cf-st.sc-cdn.net
 chatfd.xboxlive.com
+checkappexec.microsoft.com
 chevrolet.com
 cj.com
 cj.dotomi.com
@@ -219,6 +220,7 @@ events.gfe.nvidia.com
 evyy.net
 ew.com
 ext-eq.squarespace.com
+extension-files.twitch.tv
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
 external-lhr10-1.xx.fbcdn.net
@@ -376,6 +378,7 @@ msftncsi.com
 msg.xboxlive.com
 msn.com
 my.plexapp.com
+nav.smartscreen.microsoft.com
 netflix.com
 nexus.ensighten.com
 nexusrules.officeapps.live.com
@@ -534,6 +537,7 @@ stats.streamelements.com
 status.plex.tv
 stitcher.pluto.tv
 stripe.com
+supervisor.ext-twitch.tv
 support.microsoft.com
 surveymonkey.com
 synology.com
