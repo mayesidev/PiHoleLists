@@ -31,10 +31,6 @@ https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
-https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
-https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts
-https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
-https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
@@ -66,7 +62,6 @@ https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spam
 https://raw.githubusercontent.com/mayesidevel/PiHoleLists/master/MiscBlocklist
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
-https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
