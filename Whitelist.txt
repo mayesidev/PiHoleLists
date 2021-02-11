@@ -157,6 +157,7 @@ cpms35.spop10.ams.plex.bz
 creative.ak.fbcdn.net
 crisp.chat
 cse.google.com
+ctest.cdn.nintendo.com
 ctldl.windowsupdate.com
 cws.conviva.com
 cwtv-mrss-akamai.cwtv.com
