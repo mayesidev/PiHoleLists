@@ -92,6 +92,7 @@ bigzipfiles.facebook.com
 bing.com
 bit.ly
 bitbucket.org
+boards.greenhouse.io
 boinc.bakerlab.org
 boinc2.ssl.berkeley.edu
 brightcove.net
@@ -158,6 +159,7 @@ creative.ak.fbcdn.net
 crisp.chat
 cse.google.com
 ctest.cdn.nintendo.com
+ctest.cdn.nintendo.net
 ctldl.windowsupdate.com
 cws.conviva.com
 cwtv-mrss-akamai.cwtv.com
@@ -339,6 +341,7 @@ licensing.xboxlive.com
 link.theplatform.com
 linkedin.com
 links.my.pizzahut.com
+links.offers.papajohns.com
 linksynergy.com
 linuxtracker.org
 live.com
@@ -386,6 +389,7 @@ nexusrules.officeapps.live.com
 nine.plugins.plexapp.com
 no-ip.com
 node.plexapp.com
+nordvpn.com
 notificationinbox.xboxlive.com
 notifier.xboxlive.com
 notify.xboxlive.com
@@ -522,6 +526,7 @@ sls.update.microsoft.com
 sls.update.microsoft.com.akadns.net
 sls.update.microsoft.com.nsatc.net
 slscr.update.microsoft.com
+smartlinks.intuit.com
 social.xboxlive.com
 society6.com
 softwareupdates.amazon.com
