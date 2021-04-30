@@ -304,6 +304,7 @@ images-eds.xboxlive.com
 images.pluto.tv
 imagesak.secureserver.net
 img.vidible.tv
+img1.wsimg.com
 imgix.net
 imgs.xkcd.com
 imgur.com
@@ -697,6 +698,7 @@ www.tkqlhce.com
 www.tradetracker.net
 www.trueachievements.com
 www.twitter.com
+www.uhaul.com
 www.wgntv.com
 www.xboxlive.com
 www.youtube-nocookie.com
