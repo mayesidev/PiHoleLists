@@ -3,6 +3,7 @@
 1-edge-chat.facebook.com
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 1drv.com
+1drv.ms
 2-edge-chat.facebook.com
 2.android.pool.ntp.org
 3-edge-chat.facebook.com
@@ -26,6 +27,7 @@ accounts.xboxlive.com
 acdn.adnxs.com
 achievements.xboxlive.com
 activate.adobe.com
+activity.windows.com
 ad.atdmt.com
 ad.doubleclick.net
 adf.ly
@@ -61,6 +63,7 @@ app.plex.tv
 app.progressive.com
 app.slack.com
 appboot.netflix.com
+appboy-images.com
 appleid.apple.com
 applicast.ga.sony.net
 apps.skype.com
@@ -123,6 +126,7 @@ cf-st.sc-cdn.net
 chatfd.xboxlive.com
 checkappexec.microsoft.com
 chevrolet.com
+chtbl.com
 cj.com
 cj.dotomi.com
 click.e.progressive.com
@@ -138,6 +142,7 @@ clients4.google.com
 clients5.google.com
 clients6.google.com
 clk.tradedoubler.com
+cloudsync-prod.s3.amazonaws.com
 code.bildstatic.de
 code.jquery.com
 cognito-identity.us-east-1.amazonaws.com
@@ -171,6 +176,7 @@ d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 d2jsp.org
 d2n99fpfeqbnhk.cloudfront.net
+d2wy8f7a9ursnm.cloudfront.net
 d3a510xmpll7o6.cloudfront.net
 d3h5bk8iotgjvw.cloudfront.net
 d3uf8d0lloeluq.cloudfront.net
@@ -211,6 +217,7 @@ ea.com
 ec-ns.sascdn.com
 ecn.dev.virtualearth.net
 edge-chat.facebook.com
+edge-chat.messenger.com
 edge-mqtt.facebook.com
 edge.api.brightcove.com
 eds.xboxlive.com
@@ -235,6 +242,7 @@ external-lhr6-1.xx.fbcdn.net
 external-lhr7-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
+external-ort2-1.xx.fbcdn.net
 f1.media.brightcove.com
 facebook.com
 facebook.net
@@ -260,6 +268,7 @@ ftv-smp.ntp-fireos.com
 g.live.com
 gan.doubleclick.net
 gcs.sc-cdn.net
+gdlp01.c-wss.com
 geo-prod.do.dsp.mp.microsoft.com
 geo3.ggpht.com
 gfwsl.geforce.com
@@ -285,7 +294,9 @@ graph.instagram.com
 gravatar.com
 gsp1.apple.com
 gstatic.com
+gstaticadssl.l.google.com
 gumroad.com
+h-sdk.online-metrix.net
 hackerone.com
 halowaypoint.com
 help.ui.xboxlive.com
@@ -339,6 +350,7 @@ l.facebook.com
 lastfm-img2.akamaized.net
 lemonade.com
 licensing.xboxlive.com
+link.indiegogo.com
 link.theplatform.com
 linkedin.com
 links.my.pizzahut.com
@@ -352,6 +364,7 @@ login.aliexpress.com
 login.live.com
 login.microsoftonline.com
 login.microsoftonline.us
+logs.juspay.in
 lotustalk.com
 m.hotmail.com
 m.imgur.com
@@ -376,8 +389,10 @@ microsoftonline.com
 mixer.com
 mobile-ap.spotify.com
 mobile.pipe.aria.microsoft.com
+mobileandroidapi.punchh.com
 mqtt-mini.facebook.com
 mqtt.c10r.facebook.com
+msedge.api.cdp.microsoft.com
 msftconnecttest.com
 msftncsi.com
 msg.xboxlive.com
@@ -423,6 +438,7 @@ outlook.live.com
 outlook.office.com
 outlook.office365.com
 ow.ly
+p11.techlab-cdn.com
 partners.webmasterplan.com
 pbs.twimg.com
 pgl.yoyo.org
@@ -466,10 +482,12 @@ redirect.at
 redirect.viglink.com
 redirectingat.com
 redirector.googlevideo.com
+redirector.gvt1.com
 refersion.com
 reminders-pa.googleapis.com
 res.cloudinary.com
 resources.sbs.com.au
+rest.iad-03.braze.com
 routerlogin.com
 routerlogin.net
 rover.ebay.com
@@ -483,17 +501,25 @@ s.shopify.com
 s.youtube.com
 s.ytimg.com
 s.zkcdn.net
+s1.symcb.com
 s1.wp.com
+s2.symcb.com
 s2.youtube.com
 s3-eu-west-1.amazonaws.com
 s3.amazonaws.com
+s3.symcb.com
+s4.symcb.com
+s5.symcb.com
 sa.symcb.com
 samsungosp.com
 samsungotn.net
 sbs.com.au
 sbsvodns-vh.akamaihd.net
 sc-analytics.appspot.com
+scontent-atl3-1.xx.fbcdn.net
 scontent-lhr3-1.xx.fbcdn.net
+scontent-mia3-1.xx.fbcdn.net
+scontent-ort2-1.xx.fbcdn.net
 scontent.fgdl5-1.fna.fbcdn.net
 scontent.xx.fbcdn.net
 screenrant.com
@@ -540,6 +566,7 @@ ssl.p.jwpcdn.com
 staging.plex.tv
 star-mini.c10r.facebook.com
 star.c10r.facebook.com
+static.xx.fbcdn.net
 stats.streamelements.com
 status.plex.tv
 stitcher.pluto.tv
@@ -552,6 +579,7 @@ sysctl.org
 t.co
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
+tagger.opecloud.com
 tags.tiqcdn.com
 tawk.to
 tc.tradetracker.com
@@ -560,6 +588,7 @@ tegna.com
 tegna.okta.com
 tegna.service-now.com
 tegnanews.slack.com
+telemetry-console.api.playstation.com
 telemetry.svc.halowaypoint.com
 tenor.com
 test-ipv6.com
@@ -574,6 +603,7 @@ title.mgt.xboxlive.com
 titlehub.xboxlive.com
 titlestorage.xboxlive.com
 tkqlhce.com
+tlu.dl.delivery.mp.microsoft.com
 todo-ta-g7g.amazon.com
 tomshardware.com
 tournamentshub.xboxlive.com
@@ -607,6 +637,7 @@ userstats.xboxlive.com
 usertitles.xbox.com
 v.firebog.net
 v.shopify.com
+v.w-x.co
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.events.data.microsoft.com
@@ -615,6 +646,7 @@ v4.testmyipv6.com
 v6.testmyipv6.com
 variety.com
 video-stats.l.google.com
+video.xx.fbcdn.net
 videocdn-sbs.akamaized.net
 videos.vidible.tv
 vidtech.cbsinteractive.com
@@ -656,6 +688,7 @@ www.dpbolvw.net
 www.emjcd.com
 www.evyy.net
 www.ew.com
+www.facebook.com
 www.google-analytics.com
 www.googleapis.com
 www.gopjn.com
