@@ -18,6 +18,7 @@ a-vrv.akamaized.net
 a463.w10.akamai.net
 a790.w16.akamai.net
 aa.com
+aax-us-east.amazon-adsystem.com
 abcnewsplayer-a.akamaihd.net
 abcsouth.slack.com
 account.activedirectory.windowsazure.us
@@ -130,6 +131,8 @@ chtbl.com
 cj.com
 cj.dotomi.com
 click.e.progressive.com
+click.em.gamestop.com
+click.engage.xbox.com
 click.linksynergy.com
 clickserve.cc-dt.com
 clickserve.dartsearch.net
@@ -614,6 +617,7 @@ tracking-protection.cdn.mozilla.net
 tracking.epicgames.com
 tradetracker.net
 traffic.libsyn.com
+trk.klclick.com
 trueachievements.com
 tvdb2.plex.tv
 tvthemes.plexapp.com
