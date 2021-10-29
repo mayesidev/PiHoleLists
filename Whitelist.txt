@@ -338,6 +338,7 @@ j.mp
 jdoqocy.com
 jquery.com
 js.maxmind.com
+js.media-lab.ai
 js.pusher.com
 js.stripe.com
 jsdelivr.net
