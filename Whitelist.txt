@@ -77,6 +77,8 @@ arc.msn.com
 aspnetcdn.com
 assets.adobedtm.com
 assets1.xboxlive.com
+assign1.foldingathome.org
+assign2.foldingathome.org
 attestation.xboxlive.com
 au.download.windowsupdate.com
 audio-ake.spotify.com.edgesuite.net
@@ -100,6 +102,7 @@ boards.greenhouse.io
 boinc.bakerlab.org
 boinc2.ssl.berkeley.edu
 brightcove.net
+brodgar.seas.wustl.edu
 browser.events.data.microsoft.com
 buff.ly
 bufferapp.com
@@ -212,6 +215,7 @@ dpbolvw.net
 drift.com
 driftt.com
 ds.testmyipv6.com
+ds01a.scs.illinois.edu
 dsms0mj1bbhn4.cloudfront.net
 dts.podtrac.com
 dynupdate.no-ip.com
@@ -249,6 +253,11 @@ external-ort2-1.xx.fbcdn.net
 f1.media.brightcove.com
 facebook.com
 facebook.net
+fah-w1.vmware.com
+fah-ws1.bahnhof.net
+fah.redesignscience.com
+fah1.innovatr.ca
+farclas.engr.wustl.edu
 fb.me
 fbcdn-creative-a.akamaihd.net
 fbcdn.net
@@ -262,6 +271,7 @@ filament.io
 firestore.googleapis.com
 firetvdeviceprofilemanagementservice-na.amazon.com
 fls-na.amazon.com
+folding01.biophysics.kth.se
 fonts.gstatic.com
 forms.gle
 forums.d2jsp.org
@@ -303,6 +313,10 @@ h-sdk.online-metrix.net
 hackerone.com
 halowaypoint.com
 help.ui.xboxlive.com
+highland1.engr.wustl.edu
+highland2.engr.wustl.edu
+highland3.engr.wustl.edu
+highland4.engr.wustl.edu
 hls.ted.com
 hosts-file.net
 hostsfile.mine.nu
@@ -333,6 +347,7 @@ iosapps.itunes.g.aaplimg.com
 ipv6-test.com
 ipv6.msftncsi.com
 ipv6test.google.com
+islay.seas.wustl.edu
 itunes.apple.com
 j.mp
 jdoqocy.com
@@ -400,6 +415,7 @@ msedge.api.cdp.microsoft.com
 msftconnecttest.com
 msftncsi.com
 msg.xboxlive.com
+mskcc1.foldingathome.org
 msn.com
 my.plexapp.com
 nav.smartscreen.microsoft.com
@@ -432,6 +448,7 @@ oneclient.sfx.ms
 onedrive.live.com
 onenetworkdirect.net
 openload.co
+orkney.seas.wustl.edu
 ota-downloads.nvidia.com
 otn.samsungcloudcdn.com
 otnprd10.samsungcloudsolution.net
@@ -460,6 +477,10 @@ players.pluto.tv
 playfabapi.com
 pleated-jeans.com
 plex.tv
+plfah1-1.mskcc.org
+plfah2-1.mskcc.org
+pllwskifah1.mskcc.org
+pllwskifah2.mskcc.org
 pmd.cdn.turner.com
 pntra.com
 pntrac.com
@@ -477,6 +498,7 @@ proxy02.pop.ord.plex.bz
 pubsub.plex.bz
 pubsub.plex.tv
 pubsub.pubnub.com
+pvs0156.ust.hk
 q.stripe.com
 qksrv.net
 raspbian.raspberrypi.org
@@ -575,6 +597,7 @@ stats.streamelements.com
 status.plex.tv
 stitcher.pluto.tv
 stripe.com
+stxfahwork01.silicontx.com
 supervisor.ext-twitch.tv
 support.microsoft.com
 surveymonkey.com
@@ -651,6 +674,18 @@ v20.vortex-win.data.microsoft.com
 v4.testmyipv6.com
 v6.testmyipv6.com
 variety.com
+vav15.ocis.temple.edu
+vav16.ocis.temple.edu
+vav17.fah.temple.edu
+vav18.fah.temple.edu
+vav19.fah.temple.edu
+vav20.fah.temple.edu
+vav21.fah.temple.edu
+vav22.fah.temple.edu
+vav23.fah.temple.edu
+vav24.fah.temple.edu
+vav3.ocis.temple.edu
+vav4.ocis.temple.edu
 video-stats.l.google.com
 video.xx.fbcdn.net
 videocdn-sbs.akamaized.net
