@@ -623,6 +623,7 @@ testmyipv6.com
 tgna.tegna.com
 themoviedb.com
 thetvdb.com
+tickemaster.evyy.net
 time.samsungcloudsolution.com
 tinyurl.com
 title.auth.xboxlive.com
