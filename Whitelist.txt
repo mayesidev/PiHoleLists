@@ -106,6 +106,7 @@ brodgar.seas.wustl.edu
 browser.events.data.microsoft.com
 buff.ly
 bufferapp.com
+by3301.storage.live.com
 c.s-microsoft.com
 captive.apple.com
 careerbuilder.com
@@ -119,6 +120,7 @@ cdn.refersion.com
 cdn.samsungcloudsolution.com
 cdn.searchspring.net
 cdn.segment.io
+cdn.userleap.com
 cdn.vidible.tv
 cdn1.smartadserver.com
 cdn2.optimizely.com
