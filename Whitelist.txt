@@ -6,6 +6,7 @@
 1drv.ms
 2-edge-chat.facebook.com
 2.android.pool.ntp.org
+244631299-prod.rfksrv.com
 3-edge-chat.facebook.com
 4-edge-chat.facebook.com
 5-edge-chat.facebook.com
@@ -18,6 +19,7 @@ a-vrv.akamaized.net
 a463.w10.akamai.net
 a790.w16.akamai.net
 aa.com
+aa.paramountplus.com
 aax-us-east.amazon-adsystem.com
 abcnewsplayer-a.akamaihd.net
 abcsouth.slack.com
@@ -38,6 +40,7 @@ akamaihd.net
 akamaitechnologies.com
 akamaized.net
 alluremedia.com.au
+amazon.com
 amazonaws.com
 amd.cdn.turner.com
 amzn.com
@@ -48,6 +51,7 @@ api-global.netflix.com
 api-tv.spotify.com
 api.amazon.com
 api.amazonalexa.com
+api.directory.signal.org
 api.facebook.com
 api.ipify.org
 api.mapbox.com
@@ -56,6 +60,7 @@ api.rlje.net
 api.sbs.com.au
 api.searchspring.net
 api.segment.io
+api.twitter.com
 apicache.vudu.com
 apmebf.com
 app-analytics.snapchat.com
@@ -110,6 +115,7 @@ by3301.storage.live.com
 c.s-microsoft.com
 captive.apple.com
 careerbuilder.com
+cbsinteractive.hb.omtrdc.net
 cc-dt.com
 cdn-mobile.api.pluto.tv
 cdn.cloudflare.net
@@ -120,6 +126,7 @@ cdn.refersion.com
 cdn.samsungcloudsolution.com
 cdn.searchspring.net
 cdn.segment.io
+cdn.signal.org
 cdn.userleap.com
 cdn.vidible.tv
 cdn1.smartadserver.com
@@ -129,6 +136,7 @@ cdnjs.cloudflare.com
 cdns.gigya.com
 cert.mgt.xboxlive.com
 cf-st.sc-cdn.net
+chat.signal.org
 chatfd.xboxlive.com
 checkappexec.microsoft.com
 chevrolet.com
@@ -151,6 +159,7 @@ clients5.google.com
 clients6.google.com
 clk.tradedoubler.com
 cloudsync-prod.s3.amazonaws.com
+cms.souqcdn.com
 code.bildstatic.de
 code.jquery.com
 cognito-identity.us-east-1.amazonaws.com
@@ -163,6 +172,7 @@ config.edge.skype.com
 connect.facebook.com
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
+contentproxy.signal.org
 continuum.dds.microsoft.com
 corp.signaturescience.com
 cortana-gateway.amazon.com
@@ -180,6 +190,7 @@ cwtv-prod-elb.digitalsmiths.net
 d1.xboxlive.com
 d1s31zyz7dcc2d.cloudfront.net
 d21m0ezw6fosyw.cloudfront.net
+d26opx5dl8t69i.cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 d2jsp.org
@@ -189,6 +200,7 @@ d3a510xmpll7o6.cloudfront.net
 d3h5bk8iotgjvw.cloudfront.net
 d3uf8d0lloeluq.cloudfront.net
 d63r8xi1zu867.cloudfront.net
+d83eunklitikj.cloudfront.net
 dashboard.plex.tv
 dataplicity.com
 dcs-vod.apis.anvato.net
@@ -231,6 +243,7 @@ edge-mqtt.facebook.com
 edge.api.brightcove.com
 eds.xboxlive.com
 ekr.zdassets.com
+email.elfster.com
 emjcd.com
 en.internet.nl
 entitlement.auth.adobe.com
@@ -288,6 +301,7 @@ geo-prod.do.dsp.mp.microsoft.com
 geo3.ggpht.com
 gfwsl.geforce.com
 gfycat.com
+giphy-proxy-production.whispersystems.org
 giphy.com
 gist.githubusercontent.com
 github.com
@@ -410,6 +424,7 @@ microsoftonline.com
 mixer.com
 mobile-ap.spotify.com
 mobile.pipe.aria.microsoft.com
+mobile.twitter.com
 mobileandroidapi.punchh.com
 mqtt-mini.facebook.com
 mqtt.c10r.facebook.com
@@ -461,6 +476,7 @@ outlook.live.com
 outlook.office.com
 outlook.office365.com
 ow.ly
+p.typekit.net
 p11.techlab-cdn.com
 partners.webmasterplan.com
 pbs.twimg.com
@@ -505,7 +521,9 @@ q.stripe.com
 qksrv.net
 raspbian.raspberrypi.org
 raw.githubusercontent.com
+reddit-uploaded-media.s3-accelerate.amazonaws.com
 reddit.com
+reddit.map.fastly.net
 redirect.at
 redirect.viglink.com
 redirectingat.com
@@ -539,6 +557,7 @@ s3.symcb.com
 s4.symcb.com
 s5.symcb.com
 sa.symcb.com
+saa.paramountplus.com
 samsungosp.com
 samsungotn.net
 sbs.com.au
@@ -571,6 +590,7 @@ shareasale-analytics.com
 shareasale.com
 sharepoint.com
 shopifycdn.com
+signal.org
 signaturescience.com
 silo.pluto.tv
 siloh.pluto.tv
@@ -586,6 +606,7 @@ social.xboxlive.com
 society6.com
 softwareupdates.amazon.com
 someonewhocares.org
+souqcdn.com
 spclient.wg.spotify.com
 sqs.us-east-1.amazonaws.com
 ssl.berkeley.edu
@@ -598,8 +619,10 @@ static.xx.fbcdn.net
 stats.streamelements.com
 status.plex.tv
 stitcher.pluto.tv
+storage.signal.org
 stripe.com
 stxfahwork01.silicontx.com
+styles.redditmedia.com
 supervisor.ext-twitch.tv
 support.microsoft.com
 surveymonkey.com
@@ -622,10 +645,12 @@ telemetry.svc.halowaypoint.com
 tenor.com
 test-ipv6.com
 testmyipv6.com
+textsecure-service-whispersystems.org
 tgna.tegna.com
 themoviedb.com
 thetvdb.com
 tickemaster.evyy.net
+ticketmaster.evyy.net
 time.samsungcloudsolution.com
 tinyurl.com
 title.auth.xboxlive.com
@@ -647,6 +672,7 @@ tradetracker.net
 traffic.libsyn.com
 trk.klclick.com
 trueachievements.com
+turn1.whispersystems.org
 tvdb2.plex.tv
 tvthemes.plexapp.com
 tvthemes.plexapp.com.cdn.cloudflare.net
@@ -654,13 +680,16 @@ twimg.com
 twitch.app.link
 twitter.com
 ubiservices.data.ubi.com
+ud-chat.signal.org
 ui.skype.com
 unagi-na.amazon.com
 unsplash.com
 update-cdn.xboxlive.com
 update.xboxlive.com
+updates2.signal.org
 upgrade.scdn.com
 upload.facebook.com
+upload.twitter.com
 us-east-1.amazonaws.com
 use-application-dns.net
 user.auth.xboxlive.com
@@ -696,6 +725,7 @@ videos.vidible.tv
 vidtech.cbsinteractive.com
 vimeo.com
 vortex.data.microsoft.com
+wa.me
 watson.telemetry.microsoft.com
 web.facebook.com
 web.vortex.data.microsoft.com
@@ -704,6 +734,7 @@ weeklyad.target.com.edgesuite.net
 west.tegna.com
 wgntv.com
 whereisxur.com
+whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
 widget-cdn.rpxnow.com
 wikimedia.org
 wikipedia.org
@@ -765,10 +796,13 @@ www.pntra.com
 www.pntrac.com
 www.pntrack.com
 www.qksrv.net
+www.redditmedia.com
+www.redditstatic.com
 www.refersion.com
 www.samsungotn.net
 www.sbs.com.au
 www.screenrant.com
+www.signal.org
 www.solaredge.com
 www.synology.com
 www.tkqlhce.com
@@ -776,6 +810,7 @@ www.tradetracker.net
 www.trueachievements.com
 www.twitter.com
 www.uhaul.com
+www.wa.me
 www.wgntv.com
 www.xboxlive.com
 www.youtube-nocookie.com
