@@ -147,6 +147,7 @@ click.e.progressive.com
 click.em.gamestop.com
 click.engage.xbox.com
 click.linksynergy.com
+click.mail.zillow.com
 clickserve.cc-dt.com
 clickserve.dartsearch.net
 client-s.gateway.messenger.live.com
@@ -388,6 +389,7 @@ licensing.xboxlive.com
 link.indiegogo.com
 link.theplatform.com
 linkedin.com
+links.fandango.com
 links.my.pizzahut.com
 links.offers.papajohns.com
 linksynergy.com
